@@ -2,8 +2,8 @@
 
 | Method | MNIST -> MNIST-M  |
 | ------ | ----------------- |
-| Source Only | 55.8 % | 
-| DANN        | 68.9 % |
+| Source Only | 55.6 % | 
+| DANN        | 69.8 % |
 
 | Source Only | DANN |
 | ----------- | ---- |
